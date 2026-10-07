@@ -1,8 +1,8 @@
 # CST8915 Lab 3: CST8915 Full-stack Cloud-native Development: Deploying the Algonquin Pet Store on Azure
 
-**Student Name**: Eric Tieu
-**Student ID**: 041273376
-**Course**: CST8915 Full-stack Cloud-native Development
+**Student Name**: Eric Tieu<br>
+**Student ID**: 041273376<br>
+**Course**: CST8915 Full-stack Cloud-native Development<br>
 **Semester**: Fall 2026
 
 ---
